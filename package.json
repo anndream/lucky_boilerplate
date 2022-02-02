@@ -2,7 +2,7 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "@fontsource/inter": "^4.5.1",
+    "@fontsource/inter": "^4.5.2",
     "@hotwired/stimulus": "^3.0.1",
     "@hotwired/stimulus-webpack-helpers": "^1.0.1",
     "@rails/ujs": "^6.1.4",
@@ -32,6 +32,6 @@
     "prettier": "^2.5.1",
     "resolve-url-loader": "4.0.0",
     "ts-loader": "^9.2.6",
-    "typescript": "^4.5.4"
+    "typescript": "^4.5.5"
   }
 }
